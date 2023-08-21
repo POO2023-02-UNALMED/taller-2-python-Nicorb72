@@ -29,12 +29,7 @@ class Auto:
         self. registro = registro
         self.modelo = modelo
         self.precio = precio
-        asientos = []
-        for asientos in asientos:
-            asientos = asientos.append
 
-
- 
 
 
     def cantidadAsientos (self, asientos):
