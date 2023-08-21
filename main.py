@@ -20,9 +20,6 @@ class Motor:
     def asignarTipo (self, tipo):
         if tipo == "electrico" or tipo == "gasolina":
             self.tipo = tipo
-x = []
-for e in range (Asiento):
-    x = Asiento.append 
 
 class Auto:
     cantidadCreados = 0
@@ -32,7 +29,13 @@ class Auto:
         self. registro = registro
         self.modelo = modelo
         self.precio = precio
-        asientos = x
+        asientos = []
+        for asientos in asientos:
+            asientos = asientos.append
+
+
+ 
+
 
     def cantidadAsientos (self, asientos):
         for asientos in asientos:
